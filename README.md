@@ -1,4 +1,4 @@
-# Hello, I'm Varad! 👋
+# Hello, I'm Mayank! 👋
 
 # Diabetes-Prediction
 Final year major project. AI based Diabetes prediction model using ML algorithms and HTML CSS Flask User Interface.
